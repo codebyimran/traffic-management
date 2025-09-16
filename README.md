@@ -6,4 +6,4 @@ kubectl apply -f samples/bookinfo/networking/destination-rule-all.yaml
 
 
 
-kubectl apply -f shifting.yaml
+kubectl apply -f traffic-shifting.yaml
